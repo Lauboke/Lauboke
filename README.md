@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lauryin
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on a project on web development
-- 📫 How to reach me, my email: bokelauryin@gmail.com
+- 🔧 HTML,CSS and JavaScript
+- 🌱 I’m currently deepening my JavaScript knowledge and exploring frontend frameworks like React
+- 📈 I'm currently working on building interactive, functional web applications and developing a personal portfolio
+- 🤗 Let's connect. I am open to collaborating and learning from others
 
 <!---
 Lauboke/Lauboke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
